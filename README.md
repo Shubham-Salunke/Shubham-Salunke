@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Web Application**
 
-- 🌱 I’m currently learning **Reactjs AND Springboot**
+- 🌱 I’m currently learning **Reactjs and Springboot**
 
 - 📫 How to reach me **salunke369shubham@gmail.com**
 
