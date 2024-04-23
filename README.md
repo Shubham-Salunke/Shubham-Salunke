@@ -12,11 +12,11 @@ src=https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Web Application**
+- 🔭 I’m currently working on **Nodejs, Express and MongoDB**
 
-- 🌱 I’m currently learning **Reactjs and Springboot**
+- 🌱 I’m currently learning **Reactjs and Redux Tool**
 
-- 📫 How to reach me **salunke369shubham@gmail.com**
+- 📫 How to reach me **shubhamsalunke.sae.comp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
